@@ -24,25 +24,6 @@
 
 <!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
-### Une API : qu'est-ce que c'est
-
-API : Application Programming Interface
-
-- partie de l'application qui expose les services à l'extérieur, c'est la porte d'accès au back-office
-- permet de séparer les responsabilités entre le client et le serveur
-- meilleure portabilité et évolutivité
-- chaque partie peut évoluer séparément
-
-API de type REST
-
-- API sans état
-- chaque requête contient toutes les informations nécessaires
-- requêtes en simultané
-
-%%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
 ### Le Front-Office : technologie JavaScript
 
 <div class="center">

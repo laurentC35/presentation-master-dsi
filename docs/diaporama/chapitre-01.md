@@ -20,11 +20,15 @@ Le but est de mutualiser au maximum les développements nécessaires à la conce
 
 %%%
 
+<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
+
 ### Les métadonnées
 
-Les métadonnées statistiques ont été introduites afin d’assurer la cohérence des données lors des différentes étapes des processus de collecte (les changements sont pris en compte partout) et son efficience (la métadonnée est saisie une seule fois).
+**Elles permettent :**
 
-Leur place est au coeur du processus des enquêtes : conception de questionnaires, dictionnaire des données, contrôles, documentation et diffusion. Elles alimentent les différentes applications du système d’information utiles au déroulement du processus statistique : collecte, traitement, diffusion.
+- la cohérence des données
+- efficience (saisie une seule fois)
+- elles sont au coeur du processus des enquêtes (collecte, traitement, diffusion)
 
 %%%
 
