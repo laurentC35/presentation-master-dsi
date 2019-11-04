@@ -8,23 +8,21 @@
 
 <!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
-### Propositions et préconisations
+### Evolutions
 
-**Propositions :**
+**L'application :**
 
-- Mettre en place une authentification
-- Impliquer les utilisateurs
-- Rattacher une maîtrise d'ouvrage à l'application
-- Utiliser d'autres technologie plus innovantes
+- refonte de l'application par un nouveau membre de l'équipe
+- mise à jour des technologies utilisées
+
+**Le générateur de spécifications :**
+
+- Ajout de nouvelles fonctionnalités
+- Prise en compte des évolutions d'Eno
+
+**Nouveau format de sortie d'Eno : Eno + JS**
+
+- Grâce à ma montée en compétence sur l'outil Eno
+- Visant à alimenter futurs supports de collecte pour les enquêtes en face à face
 
 %%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Ce que je retiens
-
-Le stage m'a apporté beaucoup :
-
-- beaucoup de connaissances en informatique, complémentaire avec la formation initiale
-- travailler en équipe
-- travailler dans un environnement complexe mélangeant une grande diversité d'acteurs

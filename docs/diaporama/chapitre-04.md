@@ -14,7 +14,7 @@
 
 ### Générateur de spécifications
 
-- Basé sur Eno, c'est une extension (nouveaux formats de sorties)
+- Basé sur Eno, c'est une extension (nouveau format de sorties)
 - format de sortie à l'extension .fodt :
   -> format open document (odt) mis à plat sous format XML
 - écrit grâce aux langages XML
