@@ -1,35 +1,34 @@
-<!-- .slide: data-background-image="images/insee_ensai.png" data-background-size="600px" class="chapter" -->
+<!-- .slide: data-background-image="images/logo-git.png" data-background-size="600px" class="chapter" -->
 
 ## 4
 
-<h1>Mon sujet de stage</h1>
+<h1>Mise en oeuvre</h1>
 
 %%%
 
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
+<!-- .slide: class="slide" data-background-image="images/logo-git.png" data-background-size="600px" -->
 
-### Le besoin
+<div class="right">
+	<img src="images/eno-logo.png" width="300px" />
+</div>
 
-- Avoir un document de spécifications de questionnaires
-- Avoir un outil permettant de gérer plusieurs versions de ce document
-- Pourvoir comparer les versions entre elles
+### Générateur de spécifications
+
+- Basé sur Eno, c'est une extension (nouveaux formats de sorties)
+- format de sortie à l'extension .fodt :
+  -> format open document (odt) mis à plat sous format XML
+- écrit grâce aux langages XML
 
 %%%
 
-<!-- .slide: class="slide" -->
-
-### Diagramme de cas d'utilisation de l'outil à créer
+### Eno
 
 <div class="center">
-	<img src="images/diag_use_case.jpg" width="400px" />
+	<img src="images/eno-hard.png" width="800px" />
 </div>
 
 %%%
 
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Petite démonstration
-
-[Lien vers l'atelier de conception de questionnaires Pogues](https://dvrmspogfolht01.ad.insee.intra/rmspogfo/)
-
-[Lien vers l'application de gestion de spécifications](https://localhost:3000/)
+<div class="center">
+	<img src="images/ENO.jpg" width="800px" />
+</div>

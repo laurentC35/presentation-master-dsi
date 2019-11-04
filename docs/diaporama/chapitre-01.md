@@ -2,103 +2,45 @@
 
 ## 1
 
-<h1> Environnement de travail</h1>
+<h1>Contexte du stage</h1>
 
 %%%
 
 <!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
-### Insee des Hauts de France à Lille
+### Industrialisation des enquêtes
 
-Une direction régionale plutôt richie :
+#### Objectifs attendus
 
-- un Service d'Administration des ressources (SAR), classique...
-- un Service Statistique (SES), classique aussi...
-- un Service des Etudes et de la Diffusion (SED) ..
-- un Service National de Développement informatique ! (SNDI Lille)
+- Industrialiser et automatiser la conception de questionnaires
+- En s'appuyant sur des métadonnées actives
+- Et permettant le multimode
 
-<div class="right">
-	<img src="images/hauts-de-fr.png" width="200px" />
-</div>
+Le but est de mutualiser au maximum les développements nécessaires à la conception des supports de collecte de chacun des modes utilisés au sein d’une même enquête, voire d’une enquête à l’autre.
+
+%%%
+
+### Les métadonnées
+
+Les métadonnées statistiques ont été introduites afin d’assurer la cohérence des données lors des différentes étapes des processus de collecte (les changements sont pris en compte partout) et son efficience (la métadonnée est saisie une seule fois).
+
+Leur place est au coeur du processus des enquêtes : conception de questionnaires, dictionnaire des données, contrôles, documentation et diffusion. Elles alimentent les différentes applications du système d’information utiles au déroulement du processus statistique : collecte, traitement, diffusion.
 
 %%%
 
 <!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
-### Le Service de développement informatique
+### Mise en oeuvre de ce programme
 
-- Compétence d'activité informatique au niveau national
-- Géré administrativement comme un service de la DR des Haut de France
-- Rattaché fonctionnelement au SG Informatique de l'Insee
+#### -> Création d'une équipe dédiée au développement/amélioration des outils nécessaires au programme
 
-Notre service est spécialisé dans le processus d'informatisation de la collecte des enquêtes auprès des ménages et des entreprises.
-
-%%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Petit organigramme du SNDI :
+Une équipe appélée Metallica : METadonnées Actives Logiciels Libres pour une Collecte Assistée
 
 <div class="center">
-	<img src="images/organigramme_old.jpg" width="700px" />
+	<img src="images/metallica.jpg" width="400px" />
 </div>
 
-%%%
+Les travaux de cette équipe vont changer la façon dont les équipes du SNDI travaillent actuellement :
 
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Les travaux du SNDI de Lille
-
-Le SNDI est aujourd'hui découpé en 2 parties :
-
-- Le plateau collecte
-- Le plateau Maintenance et investissement
-
-Les deux plateaux ont des missions très différentes :
-
-- l'un est en charge des travaux autour de la collecte
-- l'autre est en charge de maintenir et de créer de nouveaux outils pour les informaticiens
-
-%%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Les travaux autour de la collecte
-
-Deux catégories :
-
-- Développement et intégration de questionnaire électronique : développe les questionnaires au format web et pour les enquêtes en face à face et intègre les questionnaires dans les postes des enquêteurs / ou sur internet
-- Groupe exploitation : récupère et prépare les données afin de construire des bases de donnnées exploitables pour les statisticien
-
-Ces travaux sont nombreux et assez répétitifs pour certains car il s'agit de refaire quasiment la même chose pour chaque nouvelle enquête.
-
-%%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Les travaux du plateau maintenance et investissement
-
-Les travaux sont beaucoup plus variés:
-
-- un groupe de projet avec plusieurs applications en cours de création par différentes équipes
-- un groupe "Java-javascript" : qui regroupe tout un ensemble de développeurs travaillant pour la création ou la maintenance d'applications
-- un groupe Technique-XML : qui regroupe des développeurs ayant la compétence technique du développement dans les langages dérivés du XML
-
-Ces groupes sont animés par des réunions régulières afin de se tenir informer des avancements de chaque projets, apprendre/partager de nouvelles technologies.
-
-Le SNDI ayant une compétence d'activité national, travaille avec les autres services (Paris, Nantes, Orléan, ...) afin de coordonnées les travaux, les formations, l'arrivée de nouveaux outils, etc
-
-%%%
-
-<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
-
-### Où est-ce que je suis ?
-
-- Anciennement : groupe Java
-- A partir de septembre prochain : Projet Metallica (futur organigramme)
-
-Comment j'ai été intégré dans cet environnement :
-
-- Stage directement à la sortie de l'école
-- nombreuses formations pour se mettre à niveau
-- tutorat par des collègues
+- le processus d'informatisation d'une enquête se retrouve changer
+- certains métiers ne sont plus nécessaires, mais d'autres le deviennent

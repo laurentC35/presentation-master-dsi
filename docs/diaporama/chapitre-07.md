@@ -2,7 +2,7 @@
 
 ## 7
 
-<h1>Piste d'améliorations</h1>
+<h1>Aujourd'hui</h1>
 
 %%%
 
@@ -10,13 +10,12 @@
 
 ### Propositions et préconisations
 
-A la fin du stage, on se rend compte de plusieurs erreurs ou oublis :
+**Propositions :**
 
 - Mettre en place une authentification
 - Impliquer les utilisateurs
 - Rattacher une maîtrise d'ouvrage à l'application
-- Utilser d'autres technologie plus innovantes
-- Ecrire plus tôt son rapport !
+- Utiliser d'autres technologie plus innovantes
 
 %%%
 
@@ -26,8 +25,6 @@ A la fin du stage, on se rend compte de plusieurs erreurs ou oublis :
 
 Le stage m'a apporté beaucoup :
 
-- plein de connaissances en informatique
+- beaucoup de connaissances en informatique, complémentaire avec la formation initiale
 - travailler en équipe
-- travailler dans un environnement complexe : les enquêtes !
-
-Avec du recul, j'aurais évidemment pu mieux faire
+- travailler dans un environnement complexe mélangeant une grande diversité d'acteurs
