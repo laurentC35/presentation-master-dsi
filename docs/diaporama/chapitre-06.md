@@ -23,7 +23,7 @@
 
 ### Ce que je retiens
 
-Le stage m'a apporté beaucoup :
+Le stage m'a beaucoup apporté :
 
 - beaucoup de connaissances en informatique, complémentaire avec la formation initiale
 - travailler en équipe
