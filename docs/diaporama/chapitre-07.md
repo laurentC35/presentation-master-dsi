@@ -8,7 +8,7 @@
 
 <!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
-### Evolutions
+### Évolutions
 
 **L'application :**
 
@@ -22,7 +22,5 @@
 
 **Nouveau format de sortie d'Eno : Eno + JS**
 
-- Grâce à ma montée en compétence sur l'outil Eno
-- Visant à alimenter futurs supports de collecte pour les enquêtes en face à face
-
-%%%
+- Format développé en mettant en oeuvre les compétences aquise sur Eno
+- Visant à alimenter les futurs supports de collecte pour les enquêtes en face à face

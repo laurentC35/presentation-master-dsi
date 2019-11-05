@@ -15,7 +15,7 @@
 - Mettre en place une authentification
 - Impliquer les utilisateurs
 - Rattacher une maîtrise d'ouvrage à l'application
-- Utiliser d'autres technologie plus innovantes
+- Créer un lien direct pour l'utilisateur entre Pogues et l'application développée
 
 %%%
 
