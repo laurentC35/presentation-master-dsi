@@ -10,6 +10,13 @@
 
 ### Le besoin
 
+- Phase transitoire entre nouvelle et ancienne filière de génération de questionnaire
+- Nécessité de générer à partir du modèle de questionnaire saisie dans Pogues, des spécifications pour les développeurs Blaise.
+- Avoir un document facilitant le dialogue avec des organismes "extérieurs" à la conception (ex : comité du Label)
+- Historiser les différentes spécifications
+
+### Le besoin
+
 - Pouvoir générer un document de spécifications de questionnaires
 - Avoir un outil permettant de gérer plusieurs versions de ce document
 - Pourvoir comparer les versions entre elles

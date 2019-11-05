@@ -30,11 +30,11 @@
 	<img src="images/js.png" width="200px" />
 </div>
 
-Application vu par le client, visuel, faite pour intéragir avec le client :
+Application vu par le client, visuelle, faite pour intéragir avec lui :
 
 - Interface graphique en JavaScript
 - Utilisation des libraries React et Redux
-- Ecriture des composants avec React et JSX
+- Écriture des composants avec React et JSX
 - Gestion de l'état de l'application avec Redux
 
 %%%

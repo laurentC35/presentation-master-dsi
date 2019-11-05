@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="images/logo-git.png" data-background-size="600px" class="chapter" -->
+<!-- .slide: data-background-image="images/insee_ensai.png" data-background-size="600px" class="chapter" -->
 
 ## 4
 
@@ -6,7 +6,7 @@
 
 %%%
 
-<!-- .slide: class="slide" data-background-image="images/logo-git.png" data-background-size="600px" -->
+<!-- .slide: class="slide" data-background-image="images/insee_ensai.png" data-background-size="600px" -->
 
 <div class="right">
 	<img src="images/eno-logo.png" width="300px" />

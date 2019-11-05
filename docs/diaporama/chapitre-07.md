@@ -22,5 +22,5 @@
 
 **Nouveau format de sortie d'Eno : Eno + JS**
 
-- Format développé en mettant en oeuvre les compétences aquise sur Eno
-- Visant à alimenter les futurs supports de collecte pour les enquêtes en face à face
+- Format développé en mettant en oeuvre les compétences acquises sur l'outil Eno
+- Format visant à alimenter les futurs supports de collecte pour les enquêtes en face à face
