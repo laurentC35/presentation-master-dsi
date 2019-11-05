@@ -13,7 +13,7 @@
 - Phase transitoire entre nouvelle et ancienne filière de génération de questionnaire
 - Nécessité de générer à partir du modèle de questionnaire saisie dans Pogues, des spécifications pour les développeurs Blaise.
 - Avoir un document facilitant le dialogue avec des organismes "extérieurs" à la conception (ex : comité du Label)
-- Historiser les différentes spécifications
+- Historiser les différents documents de spécifications de questionnaires
 
 ### Le besoin
 
